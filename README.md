@@ -16,4 +16,4 @@ $./run.sh preview us-east-1 webapp-udagram-project-jrr network.yml network-param
 
 Or alternatively, use the CloudFormation console for creating the stacks (recommended).
 
-A live URL of the deployed stack can be reached at: [DNSUrl] (http://webapp-webap-bpyhjzffecs8-1915047134.us-east-1.elb.amazonaws.com/)
+A live URL of the deployed stack can be reached at: [](http://webapp-webap-bpyhjzffecs8-1915047134.us-east-1.elb.amazonaws.com/)
