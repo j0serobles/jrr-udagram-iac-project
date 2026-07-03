@@ -18,7 +18,7 @@ To preview changes made to the templates:
 
 `$./run.sh preview us-east-1 udagram-project-jrr network.yml network-parameters.json`
 
-`$./run.sh preview us-east-1 webapp-udagram-project-jrr network.yml network-parameters.json`
+`$./run.sh preview us-east-1 webapp-udagram-project-jrr udagram.yml udagram-parameters.json`
 
 
 Or alternatively, use the CloudFormation console for creating the stacks (recommended).
