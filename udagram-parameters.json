@@ -1,0 +1,10 @@
+[
+	{
+		"ParameterKey": "ProjectName",
+		"ParameterValue": "jrr-udagram-iac-project"
+	},
+	{
+		"ParameterKey": "AutoScalingGroupDesiredCapacity",
+		"ParameterValue": "1"
+	}
+]
